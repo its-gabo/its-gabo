@@ -5,7 +5,7 @@
 <h2 align="left">About me 💻</h2>
 <p>Hi there! I'm a 20-year-old <b>full-stack web developer</b> and a first-year college student. I specialize in building scalable and efficient applications using NestJS and React/Next.js. I also have solid knowledge of DevOps practices, enabling me to streamline development workflows and deployments.</p>
 
-<p>I’m currently working on <a href="https://github.com/its-gabo/crewhive">CrewHive</a>, a team management app designed to help teams collaborate and stay organized more effectively.</p>
+<p>I’m currently working on <a href="https://important.app/" target="_blank">Important.app</a>, a goal, habits and task progression tracker.</p>
 
 <h2 align="left">Technologies I use 🔎</h2>
 <a href="https://skillicons.dev">
