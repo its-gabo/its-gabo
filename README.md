@@ -1,14 +1,25 @@
 ![ghgif](https://github.com/its-gabo/its-gabo/assets/86124169/15be9ddf-ad27-4ca5-9072-9ad5efaacdb6)
 
-<h1>Hello fellows 👋</h1>
+# 👋 Hi, I'm Gabo
 
-<h2 align="left">About me 💻</h2>
-<p>Hi there! I'm a 20-year-old <b>full-stack web developer</b> and a first-year college student. I specialize in building scalable and efficient applications using NestJS and React/Next.js. I also have solid knowledge of DevOps practices, enabling me to streamline development workflows and deployments.</p>
+<br />
 
-<p>I’m currently working on <a href="https://important.app/" target="_blank">Important.app</a>, a goal, habits and task progression tracker. I'm also building my side project, which is tracker for custom games in League of Legends.</p>
+## 💻 About Me
 
-<h2 align="left">Technologies I use 🔎</h2>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,nest,express,ember,tailwind,sass,cypress,jest,prisma,docker,nginx,aws,postgresql,mongodb&perline=9" />
-</a>
+I'm a 21-year-old full-stack web developer and first-year computer science student.  
+I work mostly with **NestJS** on the backend and **React/Next.js** on the frontend.
+
+I enjoy building things that are useful and well-structured.  
+
+<br />
+
+### 🛠️ What I’m working on
+
+**Custom Legends** – an app for tracking stats in custom *League of Legends* games.
+
+<br />
+
+## 🧰 Tech I Use
+
+[![Tech stack](https://skillicons.dev/icons?i=ts,js,react,next,nest,nodejs,express,tailwind,prisma,docker,nginx,aws,postgresql,mongodb&perline=7)](https://skillicons.dev)
 
