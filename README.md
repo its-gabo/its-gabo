@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Gabo
 
-<br />
-
 ## 💻 About Me
-
-<br />
 
 I'm a full-stack web developer and second-year computer science student.  
 I work mainly with **NestJS/Express** on the backend and **React/Remix/Next** on the frontend.
@@ -14,8 +10,6 @@ I enjoy building products that are useful, scalable, and cleanly architected.
 <br />
 
 ## 🛠️ What I'm working on
-
-<br />
 
 **Mentingo (LMS Core)** - a modern learning platform with:
 
@@ -27,8 +21,6 @@ I enjoy building products that are useful, scalable, and cleanly architected.
 <br />
 
 ## 🧰 Tech I Use
-
-<br />
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
