@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Gabo
+<img width="900" height="225" alt="gabriel-smolana-mentingo-banner" src="https://github.com/user-attachments/assets/b24ea87b-66d6-48ed-bcb8-0702458c56f2" />
+
 
 ## 💻 About Me
 
